@@ -11,13 +11,12 @@ class BetterQuery extends PluginBase implements Listener{
 
    public function onEnable() : void{
       $this->getServer()->getPluginManager()->registerEvents($this, $this);
-      $this->getLogger()->info(TextFormat::Green . "BetterQuery enabled!");
         }
         
    public function onQueryRegenerate(QueryRegenerateEvent $event) : void{
       $queryInfo = $event->getQueryInfo();
-      $currentPlayerCount = count(Server::getInstance()->getOnlinePlayers())
+      $currentPlayerCount = count(Server::getInstance()->getOnlinePlayers());
       $queryInfo->setMaxPlayerCount($currentPlayerCount + 1);
         }
-    }
+   
 }
