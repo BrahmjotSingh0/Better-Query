@@ -5,7 +5,7 @@ namespace real\BetterQuery;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 use pocketmine\event\Listener;
-use pocketmine\server;
+use pocketmine\Server;
 use pocketmine\event\server\QueryRegenerateEvent;
 
 class BetterQuery extends PluginBase implements Listener{
