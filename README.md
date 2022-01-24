@@ -1,5 +1,5 @@
 
-![logo](/icon.png){:height="50" width="50"}
+![logo](/icon.png)
 
 
 # Better-Query ♻️
