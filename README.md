@@ -1,16 +1,14 @@
+# The Better-Query Plugin
 
-![logo](/icon.png)
+![Plugin Icon](assets/icon.png)
+
+<div align="center"><strong><p>This Plugin implements Better Query System **(i.e. Your query will be shown like this)** </p>
+![Plugin Icon](assets/example.png)
+
+<p>You will need a pocketmine server of at least version 4.0.0+</strong></div>
 
 
-# Better-Query ♻️
-A Pocketmine 4.0 Plugin which implemts custom query
-(Online Players + 1 Total Server Slots)
-
-# Example Image 🔥
-![exampleimage](/example.png)
-
-# How to Install? ❓
-- Step 1: Click the "Direct Download" button to download the plugin
-- Step 2: move the file "BetterQuery.phar" into the file "plugins"
-- Step 3: Restart server for plugins to work
-
+# How to Install
+- Download the latest phar.
+- Put the plugin phar to the plugins Folder of your pocketmine server.
+- Restart the server. 
