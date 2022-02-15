@@ -3,7 +3,8 @@
 ![Plugin Icon](assets/icon.png)
 
 <div align="center"><strong><p>This Plugin implements Better Query System **(i.e. Your query will be shown like this)** </p>
-![Plugin Icon](assets/example.png)
+
+![Plugin example image](assets/example.png)
 
 <p>You will need a pocketmine server of at least version 4.0.0+</strong></div>
 
