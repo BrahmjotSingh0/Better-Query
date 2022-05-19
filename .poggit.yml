@@ -1,9 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RealBJsingh/Better-Query
-build-by-default: true
-branches:
-  - master
-projects:
-  Better-Query:
-    path: ""
-    icon: assets/icon.png
-...
