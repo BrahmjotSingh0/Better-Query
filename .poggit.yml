@@ -5,5 +5,5 @@ branches:
 projects:
   Better-Query:
     path: "" 
-    icon: "asset/icon.png"
+    icon: "assets/icon.png"
 ...
