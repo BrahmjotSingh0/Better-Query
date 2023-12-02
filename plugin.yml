@@ -1,6 +1,6 @@
 name: BetterQuery
 main: RealBJsingh\BetterQuery\BetterQuery
-api: 4.0.0
-version: 1.0.0
+api: 5.0.0
+version: 1.0.1
 description: Query Plugin to add custom Query (Online Players + 1 Total Server Slots)
 author: RealBJsingh
