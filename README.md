@@ -8,7 +8,7 @@
 
 ![Plugin example image](assets/example.png)
 
-<p>You will need a pocketmine server of at least version 4.0.0+</strong></div>
+<p>You will need a pocketmine server of at least version 5.0.0+</strong></div>
 
 
 # How to Install
